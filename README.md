@@ -1,5 +1,5 @@
 # Java_Study
-![자바의 정석]('https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=76083001')을 공부하면서 실습한 내용을 기록합니다.
+[자바의 정석]('https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=76083001')을 공부하면서 실습한 내용을 기록합니다.
 
 ## 공부 문서
 ### ![자바의 정석]('https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=76083001')
@@ -17,7 +17,10 @@
 ## Trainning ans Summary
 - Click the 📰 next to each chapter to see it summarized in a blog.
 - Open the toggle to view the training code.
-<details><summary>Chapter 01 자바를 시작하기 전에 ![📰](https://slowprogramer.tistory.com/)
+<details><summary>Chapter 01 자바를 시작하기 전에 
+    <a href=https://slowprogramer.tistory.com/>
+        📰
+    </a>
 </summary>
 - [Hello.java]('')
 </details>
