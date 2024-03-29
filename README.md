@@ -1,8 +1,11 @@
 # Java_Study
-[자바의 정석]('https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=76083001')을 공부하면서 실습한 내용을 기록합니다.
+자바를 공부하면서 실습한 내용을 기록합니다.
 
 ## 공부 문서
-### ![자바의 정석]('https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=76083001')
+남궁성의 자바의 정석을 이용하여 공부를 진행 했습니다.
+<a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=76083001'>
+    <img src='image/java_book.jpeg'>
+</a>
 
 ## 💬사용 기술
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
