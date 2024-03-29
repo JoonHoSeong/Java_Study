@@ -20,4 +20,4 @@
 ## Trainning ans Summary
 - Click the 📰 next to each chapter to see it summarized in a blog.
 - Click the chapter title to view the training code folder.
-### Chapter 01 자바를 시작하기 전에 <a href=https://slowprogramer.tistory.com/> 📰</a>
+### [Chapter 01 자바를 시작하기 전에](https://github.com/JoonHoSeong/Java_Study/tree/main/Trainning/CH01)<a href=https://slowprogramer.tistory.com/> 📰</a>
