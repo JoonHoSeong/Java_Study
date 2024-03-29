@@ -25,5 +25,7 @@
         📰
     </a>
 </summary>
-- [Hello.java]('https://github.com/JoonHoSeong/Java_Study/tree/main/image')
+<a href='https://github.com/JoonHoSeong/Java_Study/tree/main/image'>
+ - Hello.java
+</a>
 </details>
