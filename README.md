@@ -2,7 +2,7 @@
 자바를 공부하면서 실습한 내용을 기록합니다.
 
 ## 공부 문서
-남궁성의 자바의 정석을 이용하여 공부를 진행 했습니다.
+남궁성의 자바의 정석을 이용하여 공부를 진행 했습니다.<br>
 <a href='https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=76083001'>
     <img src='image/java_book.jpeg'>
 </a>
@@ -25,5 +25,5 @@
         📰
     </a>
 </summary>
-- [Hello.java]('')
+- [Hello.java]('https://github.com/JoonHoSeong/Java_Study/tree/main/image')
 </details>
