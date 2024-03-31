@@ -17,7 +17,7 @@
 ## 🖥IDEs/Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Trainning ans Summary
+## Trainning and Summary
 - Click the 📰 next to each chapter to see it summarized in a blog.
 - Click the chapter title to view the training code folder.
-### [Chapter 01 자바를 시작하기 전에](https://github.com/JoonHoSeong/Java_Study/tree/main/Trainning/CH01)<a href=https://slowprogramer.tistory.com/> 📰</a>
+### [Chapter 01 자바를 시작하기 전에](https://github.com/JoonHoSeong/Java_Study/tree/main/Trainning/CH01)<a href=https://slowprogramer.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-%EC%A0%95%EC%84%9D-1-%EC%9E%90%EB%B0%94%EB%9E%80> 📰</a>
